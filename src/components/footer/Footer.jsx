@@ -15,7 +15,7 @@ const Footer = () => {
         <footer className="footer">
             <ContentWrapper>
                 <div className="infoText">
-                   <b>MADE WITH ❤️ BY DIPANSHU</b>
+                   <b>MADE WITH ❤️ BY Shivkant</b>
                 </div>
                 <div className="infoText">
                     <b>Ⓒ 2023 All Rights Reserved</b>
